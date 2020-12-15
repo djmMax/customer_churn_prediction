@@ -1,4 +1,4 @@
-# customer_churn_prediction
+# Customer Churn Prediction
 
 When customers leave, this can be very costly for the company, thus firms are interested in predicting churn beforehand. Having that information in hand can help companies change their strategy to retain customers.
 
